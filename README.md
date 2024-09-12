@@ -11,6 +11,8 @@
 
 # website-template
 
+npm init
+npm install
 npm init @vitejs/app
 
 <br>
