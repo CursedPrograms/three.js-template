@@ -1,0 +1,11 @@
+{
+  "name": "three.js-template",
+  "version": "1.0.0",
+  "description": "<a href=\"https://github.com/CursedPrograms/website-template/actions/workflows/proof-html.yml\">\r     <img class=\"workflow-badge workflow-success\" src=\"https://github.com/CursedPrograms/website-template/actions/workflows/proof-html.yml/badge.svg\" alt=\"Proof HTML Workflow\">\r </a>\r <br>\r <div align=\"center\">\r   <img alt=\"JavaScript\" src=\"https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white\"/>\r   <img alt=\"HTML5\" src=\"https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=white\"/>\r   <img alt=\"CSS3\" src=\"https://img.shields.io/badge/css3%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=white\"/>\r </div>\r <br>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

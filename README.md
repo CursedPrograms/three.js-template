@@ -11,6 +11,8 @@
 
 # website-template
 
+npm init @vitejs/app
+
 <br>
 <div align="center">
 <a href="https://cursed-entertainment.itch.io/" target="_blank">
