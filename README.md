@@ -16,7 +16,7 @@ npm install
 npm init @vitejs/app
 
 <div align="center">
-© Cursed Entertainment 2024
+Cursed Entertainment 2024
   </div>
 <div align="center">
 <a href="https://cursed-entertainment.itch.io/" target="_blank">
