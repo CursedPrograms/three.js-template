@@ -26,9 +26,15 @@
 
 # website-template
 
+```bash
 npm init
+```
+```bash
 npm install
+```
+```bash
 npm init @vitejs/app
+```
 
 <br>
 <div align="center">
